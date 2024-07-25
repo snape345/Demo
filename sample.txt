@@ -1,2 +1,2 @@
 A added first line
-B added second line
+A added second line 
